@@ -100,5 +100,3 @@ The dashboard offers an interactive interface to:
    ```bash
    streamlit run dashboard.py
 ```
-
-
