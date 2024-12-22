@@ -96,3 +96,7 @@ The dashboard offers an interactive interface to:
    ```bash
    streamlit run dashboard.py
 ```
+
+
+[![YouTube Video](https://img.youtube.com/vi/UODhykaY6WI/0.jpg)](https://www.youtube.com/watch?v=UODhykaY6WI)
+
