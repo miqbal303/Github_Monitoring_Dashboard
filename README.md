@@ -97,6 +97,6 @@ The dashboard offers an interactive interface to:
 1. **Ensure MongoDB is set up and populated with commit data** (via the `fetch_commit.py` script).
 
 2. **Run the Dashboard**:
-   ```bash
-   streamlit run dashboard.py
+```bash
+streamlit run dashboard.py
 ```
