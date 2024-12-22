@@ -1,5 +1,9 @@
 # GitHub Monitoring and Dashboard Application
 
+### For complete tutorial till deployment on youtube video :
+
+[![YouTube Video](https://img.youtube.com/vi/UODhykaY6WI/0.jpg)](https://www.youtube.com/watch?v=UODhykaY6WI&t=0s)
+
 This project monitors GitHub repositories for recent commits and visualizes the data through a dashboard. It consists of two main components:
 
 - **Dashboard Connection (`database.py`)**
@@ -97,6 +101,4 @@ The dashboard offers an interactive interface to:
    streamlit run dashboard.py
 ```
 
-
-[![YouTube Video](https://img.youtube.com/vi/UODhykaY6WI/0.jpg)](https://www.youtube.com/watch?v=UODhykaY6WI)
 
