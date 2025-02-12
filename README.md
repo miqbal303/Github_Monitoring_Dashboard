@@ -2,7 +2,7 @@
 
 ### For complete tutorial till deployment on youtube video :
 
-[![YouTube Video](https://img.youtube.com/vi/UODhykaY6WI/0.jpg)](https://www.youtube.com/watch?v=UODhykaY6WI&t=0s)
+[![YouTube Video](https://img.youtube.com/vi/UODhykaY6WI/0.jpg)](https://www.youtube.com/playlist?list=PLh45-N6HwAALoocs_l072t2M4fl0zLoaF)
 
 This project monitors GitHub repositories for recent commits and visualizes the data through a dashboard. It consists of two main components:
 
